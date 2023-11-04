@@ -2,36 +2,33 @@
 
 ![ping-pong-anime](https://github.com/ArvindeepSingh/Ping-Pong/assets/147825061/f72d47ce-70dc-46d9-961b-95ab11f3d713)
 
-
 ## Overview
-This is a simple implementation of the classic Pong game in Java using Swing. The game features two paddles and a ball, and your goal is to score points by bouncing the ball past your opponent's paddle.
+Welcome to the Pong Game, a classic gaming experience implemented in Java using Swing. This game pits two players against each other, each controlling a paddle, and your objective is to outmaneuver your opponent by bouncing the ball past their paddle.
 
 ## Features
 
-○ Two players can play the game, controlling their paddles using the keyboard.
-○ The game keeps track of each player's score.
-○ The ball's speed increases after each collision with a paddle.
-○ The game ends when one player reaches a certain score.
+- **Two-Player Action**: Challenge your friends in head-to-head matches, where each player takes control of their paddle using the keyboard.
 
+- **Score Tracking**: Stay in the competition with the built-in score tracking system, ensuring you know who's leading.
+
+- **Rising Tension**: Feel the heat as the ball's speed accelerates after each exhilarating collision with a paddle.
+
+- **Victory Awaits**: The game concludes when one player attains a pre-defined score, making every point and rally crucial.
 
 ## How to Play
 
-○ Player 1 (Left Paddle): Use the `W` key to move the paddle up and the `S` key to move the paddle down.
-○ Player 2 (Right Paddle): Use the `UP` arrow key to move the paddle up and the `DOWN` arrow key to move the paddle down.
+- **Player 1 (Left Paddle)**: Move your paddle upwards with the `W` key and downwards with the `S` key.
+
+- **Player 2 (Right Paddle)**: Master your opponent by using the `UP` arrow key to raise your paddle and the `DOWN` arrow key to lower it.
 
 ## Game Rules
 
-○ The game starts with the ball in the center of the screen.
-○ Players take turns hitting the ball by moving their paddles up or down.
-○ If the ball passes a player's paddle and goes off the screen, the opposing player scores a point.
-○ The ball's speed increases with each collision, making the game more challenging.
-○ The game continues until one player reaches a certain score (you can customize this in the code).
+- The game kicks off with the ball at the center of the screen, ready for action.
 
-## Customization
+- Players take turns hitting the ball, maneuvering their paddles up or down to keep the game alive.
 
-You can customize the game by modifying the code in `PongGame.java`. Here are a few things you can do:
+- When the ball eludes a player's paddle and exits the screen, their opponent scores a point.
 
-○ Change the initial game settings, such as the paddle sizes and ball diameter.
-○ Adjust the game's scoring system and winning conditions.
-○ Modify the game's appearance by changing colors, fonts, or graphics.
-○ Implement additional features or power-ups to make the game more interesting.
+- As the ball repeatedly collides with paddles, its velocity steadily increases, cranking up the challenge.
+
+- The game persists until one player reaches a predetermined score threshold, which can be adjusted in the code to match your preferences.

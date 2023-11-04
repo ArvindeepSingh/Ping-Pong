@@ -1,4 +1,4 @@
-# Pong Game
+# Ping Pong Game
 
 ![ping-pong-anime](https://github.com/ArvindeepSingh/Ping-Pong/assets/147825061/f72d47ce-70dc-46d9-961b-95ab11f3d713)
 
@@ -11,9 +11,9 @@ Welcome to the Pong Game, a classic gaming experience implemented in Java using 
 
 - **Score Tracking**: Stay in the competition with the built-in score tracking system, ensuring you know who's leading.
 
-- **Rising Tension**: Feel the heat as the ball's speed accelerates after each exhilarating collision with a paddle.
+- **Intensity**: Feel the heat as the ball's speed accelerates after each exhilarating collision with a paddle.
 
-- **Victory Awaits**: The game concludes when one player attains a pre-defined score, making every point and rally crucial.
+- **Victory**: The game concludes when one player attains a pre-defined score, making every point and rally crucial.
 
 ## How to Play
 

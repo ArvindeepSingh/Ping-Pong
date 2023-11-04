@@ -1,5 +1,9 @@
 # Pong Game
 
+![ping-pong-anime](https://github.com/ArvindeepSingh/Ping-Pong/assets/147825061/f72d47ce-70dc-46d9-961b-95ab11f3d713)
+
+
+## Overview
 This is a simple implementation of the classic Pong game in Java using Swing. The game features two paddles and a ball, and your goal is to score points by bouncing the ball past your opponent's paddle.
 
 ## Features
